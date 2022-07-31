@@ -1,2 +1,2 @@
 # my-website
-Test descritpion
+This is an awesome site for learning
